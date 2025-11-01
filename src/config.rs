@@ -101,7 +101,7 @@ const CHARS: &[char] = &[
 ];
 
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["ga-bp1lqag5be16nk1oy3ugs.aliyunga0017.com"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["cdn.dnjshi892.top"];
 pub const RS_PUB_KEY: &str = "gRP1LZ3P4dMEatpfCA4qfNVTETTCmmn7cPkK+uX3HVk=";
 pub const RENDEZVOUS_PORT: i32 = 41246;
 pub const RELAY_PORT: i32 = 41247;
